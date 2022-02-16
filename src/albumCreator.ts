@@ -1,4 +1,4 @@
-import getAlbums from './modules/getAlbums';
+import getAlbums from './modules/buildAlbum';
 import createAlbum from './modules/createAlbum';
 import photoHandler from './modules/photoHandler';
 
